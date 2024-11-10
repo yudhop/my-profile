@@ -1,0 +1,118 @@
+/* Background Color*/
+.background_color {
+    background-color: lightblue;
+}
+
+/* Navbar pointed */
+.navbar_pointed {
+    background-color: lightblue;
+}
+
+/* Whatsapp Logo */
+.whatsapp_logo {
+    height: 20px;
+    width: 20px;
+    float: left;
+    margin-top: 3px;
+    margin-right: 3px;
+}
+
+/* Telegram Logo */
+.telegram_logo {
+    height: 20px;
+    width: 20px;
+    float: left;
+    margin-top: 1px;
+    margin-right: 3px;
+}
+
+/* Instagram Logo */
+.instagram_logo {
+    height: 20px;
+    width: 20px;
+    float: left;
+    margin-top: 3px;
+    margin-right: 3px;
+    margin-left: 1px;
+}
+
+/* Gmail Logo */
+.gmail_logo {
+    height: 20px;
+    width: 20px;
+    float: left;
+    margin-top: 3px;
+    margin-right: 3px;
+    margin-left: 1px;
+}
+
+/* Github Logo */
+.github_logo {
+    height: 20px;
+    width: 20px;
+    float: left;
+    margin-top: 3px;
+    margin-right: 2px;
+}
+
+/* Expand Text*/
+.github_text {
+    margin-left: 20px;
+}
+
+/* Contact Me Gmail */
+.gmail_contactme {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+/* Size Text Box */
+.resized_box {
+    width: 100px;
+}
+
+/* information text */
+.text_info {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20vh;
+}
+
+/* Input Email */
+.input_email {
+    margin-top: 10vh;
+    margin-left: 85vh;
+}
+
+/* Input Chat */
+.input_chat {
+    margin-top: 2vh;
+    margin-left: 75vh;
+}
+
+/* Input subject */
+.input_subject {
+    margin-top: 1vh;
+    margin-left: 75vh;
+}
+
+/* Button Send */
+.send_button {
+    margin-left: 98vh;
+}
+
+/* Image And Text Configuration */
+.img_conf {
+    clip-path: circle();
+}
+.img_container {
+    display: block;
+    margin-top: 100px;
+    margin-left: 85vh;
+}
+.text_above_img {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
