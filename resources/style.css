@@ -103,6 +103,15 @@
     margin-left: 98vh;
 }
 
+/* Image Send Button */
+.send_btn_img {
+    height: 30px;
+    width: 30px;
+    float: left;
+    padding: auto;
+    margin-right: 5px;
+    margin-left: 1px;
+}
 /* Image And Text Configuration */
 .img_conf {
     clip-path: circle();
